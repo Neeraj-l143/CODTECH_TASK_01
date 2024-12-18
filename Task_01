@@ -1,3 +1,4 @@
+/* Simple Calculator */
 # Display available operations
 
 print('''
