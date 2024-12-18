@@ -1,0 +1,27 @@
+# Display available operations
+
+print('''
++ Addition
+- Subtraction
+* Multiplication
+/ Division                  
+''')
+
+# Input from the user
+
+num1 = int(input("Enter the number1 :- "))  # First number
+num2 = int(input("Enter the number2 :- "))  # Second number
+opr = input("Enter the opr.. (+,-,*,/) :-") # Operator
+
+# Perform calculation based on the operator
+
+if opr == "+":  # Addition
+    print(num1 + num2)
+elif opr == "-":  # Subtraction
+    print(num1 - num2)
+elif opr == "*":  # Multiplication
+    print(num1 * num2)
+elif opr == "/":  # Division
+    print(num1 / num2)
+else:  # Invalid operator
+    print("Invalid Opr...")
