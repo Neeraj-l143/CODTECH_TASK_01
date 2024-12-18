@@ -1,9 +1,9 @@
-Name: Neeraj Kumar 
-Company: CODTECH IT SOLUTIONS 
-ID: CT08DYJ 
-Domain: Python Programming 
-Duration: Dec to Jan 2025 
-Mentor: Santhosh N
+#### Name: Neeraj Kumar 
+#### Company: CODTECH IT SOLUTIONS 
+#### ID: CT08DYJ 
+#### Domain: Python Programming 
+#### Duration: Dec to Jan 2025 
+#### Mentor: Santhosh N
 
 ### Overview of This Simple Calculator Project
 This is a console-based simple calculator program written in Python. It allows users to perform basic arithmetic operations by selecting an operator and entering two numbers.
